@@ -16,3 +16,6 @@ Tools to use
 4. Slack
 5. Canvas
 6. Zoom
+
+I used the following script in todays lab
+https://github.com/huner2/Cyber-Security-Scripts/blob/master/WindowsSecurity.ps1
