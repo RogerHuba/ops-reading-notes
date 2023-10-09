@@ -19,3 +19,13 @@ Tools to use
 
 I used the following script in todays lab
 https://github.com/huner2/Cyber-Security-Scripts/blob/master/WindowsSecurity.ps1
+
+
+###### Lecture Notes
+
+Track Notes here:
+1
+2
+3
+etc
+
